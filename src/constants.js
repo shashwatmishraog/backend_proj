@@ -1,1 +1,1 @@
-export const DB_NAME="videorail"
+export const DB_NAME = "videotube"
